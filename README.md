@@ -3,8 +3,8 @@
 
 ###### Learn more at...
 
-* [Portfolio] (https://www.branislavtodorovic.com/)
-* [LinkedIn] (https://www.linkedin.com/in/brantodorovic/)
+* https://www.branislavtodorovic.com/
+* https://www.linkedin.com/in/brantodorovic/
 
 <!--
 **bajcula/bajcula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
