@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a software engineeer who thrives in tackling and solving complex challenges. Passionate about creating solutions that will build the future and make an impact on people around me, while maintaining high standards and a culture of excellence. I am really eager to add any new skill to my portfolio. In my free time, I am either watching soccer or leetcoding.
+### I am a software engineeer who thrives in tackling and solving complex challenges. Passionate about creating solutions that will build the future and make an impact on people around me, while maintaining high standards and a culture of excellence. I am really eager to add any new skill to my portfolio. In my free time, I am either hiking, watching soccer or leetcoding.
 
 ### Learn more at...
 
